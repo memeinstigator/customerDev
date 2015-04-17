@@ -70,7 +70,7 @@
 					<version>1.7.5</version>
 				</dependency>
     </dependencies>
-
+<!-- 
     <build>
         <resources>
             <resource>
@@ -103,5 +103,5 @@
             </plugin>
         </plugins>
     </build>
-
+ -->
 </project>
